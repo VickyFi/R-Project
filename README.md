@@ -1,6 +1,8 @@
 # R-Project
 This repository contains the deliverable files required for the R Programming course of the class Mathematical and Programming Techiniques for Medical Data Analysis at Medical Informatics Master - AUTH.
 
+A live version of this project is available at: https://hd-predict-promesip.herokuapp.com/
+
 ## Getting Started
 
 For this project an R Shiny Dashboard application was implemented that urges the user to upload the heart.dat file. 
@@ -12,7 +14,7 @@ After uploading this dataset the user may see:
 
 R Shiny
 R Studio
-Shinydashboard
+R Shinydashboard
 
 ## Authors
 
