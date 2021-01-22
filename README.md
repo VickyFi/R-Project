@@ -12,9 +12,9 @@ After uploading this dataset the user may see:
 
 ### Prerequisites
 
-R Shiny
-R Studio
-R Shinydashboard
+* R Shiny
+* R Studio
+* R Shinydashboard
 
 ## Authors
 
